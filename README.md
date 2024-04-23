@@ -2,6 +2,8 @@
 
 ## Dataset: - Honda Cars Data. (2023, March 28). Kaggle. https://www.kaggle.com/datasets/omartorres25/honda-data?select=honda_sell_data.csv. 
 
+## The other dataset used for this project is consumer reviews: - Edmunds-Consumer Car Ratings and Reviews. (2018, October 1). Kaggle. https://www.kaggle.com/datasets/ankkur13/edmundsconsumer-car-ratings-and-reviews
+
 ## Project Overview:
 
 Cars.com, now the second-largest automotive classified site, holds a vast collection of vehicles for sale. In an effort to assist potential buyers in choosing between economical cars, a web scraper was built to collect up to 5,000 Honda vehicles. Leveraging this dataset, our project aims to drive data-driven innovation in the automotive industry, specifically focusing on Honda cars.
