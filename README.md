@@ -54,7 +54,11 @@ Cars.com, now the second-largest automotive classified site, holds a vast collec
    
 ## Repository Contents:
 
-### 1. Tableau Dashboards:
+### 1. Tableau Dashboards: 
+
+### Dashboard 1:- https://public.tableau.com/views/ALY6060_group8_Final_Project_Dashboard1/ExteriorRating?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+
+### Dashboard 2:- https://public.tableau.com/views/ALY6060_Group8_Final_Project_Dashboard/Negative?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
 
 - Contains Tableau dashboards showcasing daily request counts, hourly distribution, response time, organization breakdown, and HTTP method distribution.
 
